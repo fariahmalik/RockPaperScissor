@@ -1,1 +1,3 @@
-# RockPaperScissor
+try not to copy the code.
+enjoy the game
+use proper editor...
